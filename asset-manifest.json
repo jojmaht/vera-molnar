@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vera-molnar/static/css/main.4c53560a.chunk.css",
+    "main.js": "/vera-molnar/static/js/main.cb253f6f.chunk.js",
+    "main.js.map": "/vera-molnar/static/js/main.cb253f6f.chunk.js.map",
+    "runtime-main.js": "/vera-molnar/static/js/runtime-main.27df7a57.js",
+    "runtime-main.js.map": "/vera-molnar/static/js/runtime-main.27df7a57.js.map",
+    "static/js/2.6685ca41.chunk.js": "/vera-molnar/static/js/2.6685ca41.chunk.js",
+    "static/js/2.6685ca41.chunk.js.map": "/vera-molnar/static/js/2.6685ca41.chunk.js.map",
+    "index.html": "/vera-molnar/index.html",
+    "static/css/main.4c53560a.chunk.css.map": "/vera-molnar/static/css/main.4c53560a.chunk.css.map",
+    "static/js/2.6685ca41.chunk.js.LICENSE.txt": "/vera-molnar/static/js/2.6685ca41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27df7a57.js",
+    "static/js/2.6685ca41.chunk.js",
+    "static/css/main.4c53560a.chunk.css",
+    "static/js/main.cb253f6f.chunk.js"
+  ]
+}
